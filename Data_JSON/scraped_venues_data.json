@@ -1,0 +1,3865 @@
+[
+    {
+        "name": "Fiestaa Resort n Events Venue - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Fiestaa Resort n Events Venue, Boyalahalli, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 1080,
+            "non_veg_price_per_plate": 1080
+        },
+        "capacity": [
+            {
+                "seating": 1500,
+                "floating": 2000,
+                "area": "Camaraderie - Large Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Lavender Luv",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Mango Bar - Poolside",
+                "type": "outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 400,
+                "area": "Aarunya",
+                "type": "indoor"
+            },
+            {
+                "seating": 400,
+                "floating": 600,
+                "area": "Thulasi",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 49,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Fiestaa-Resort-n-Events-Venue-409062"
+    },
+    {
+        "name": "Panchavati The Pavilion - Kanakapura Road, Bangalore",
+        "location": "Kanakapura Road, Bangalore (View on Map)Panchavati The Pavilion, Kanakapura Main Road, Kaggalipura, Karnataka, Indi...",
+        "pricing": {
+            "rental_cost": 725000
+        },
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 1000,
+                "area": "Ashoka Mandapam",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 200,
+                "floating": 350,
+                "area": "Vaatika Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 150,
+                "area": "Amphitheatre",
+                "type": "outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 1000,
+                "area": "Dining Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 26,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Panchavati-The-Pavilion-54720"
+    },
+    {
+        "name": "Aarambha - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Bellahalli, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 1000,
+            "non_veg_price_per_plate": 1000,
+            "starting_price_decor": 50000
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 1500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 250,
+                "floating": 700,
+                "area": "Banquet Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 400,
+                "floating": 1200,
+                "area": "Banquet Hall 1",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 14,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Aarambha-1269357"
+    },
+    {
+        "name": "MJ Avyanna Resort & Convention Centre -  Bangalore",
+        "location": "Bangalore, Anekal (View on Map)MJ Avyanna Resort & Convention Centre, Jigani - Anekal Road, Suragajakkanah...",
+        "pricing": {
+            "veg_price_per_plate": 1450,
+            "non_veg_price_per_plate": 1450,
+            "starting_price_decor": 250000
+        },
+        "capacity": [
+            {
+                "seating": 2000,
+                "floating": 8000,
+                "area": "Adambhara",
+                "type": "indoor"
+            },
+            {
+                "seating": 800,
+                "floating": 3000,
+                "area": "Atulyam",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 80,
+        "source_url": "https://www.wedmegood.com/wedding-venues/MJ-Avyanna-Resort-and-Convention-Centre-4426148"
+    },
+    {
+        "name": "Le Roma Samsara - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Le Roma Samsara, Mitganahalli, Chagaletty, Bengaluru, Karnataka, India",
+        "pricing": {
+            "rental_cost": 500000
+        },
+        "capacity": [
+            {
+                "seating": 800,
+                "floating": 1500,
+                "area": "Padma Lawn - Floating Mantap",
+                "type": "outdoor"
+            },
+            {
+                "seating": 600,
+                "floating": 1000,
+                "area": "Padma Pavilion",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 900,
+                "area": "Maya Lake Deck",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 350,
+                "area": "Aavya Pool Deck",
+                "type": "poolside"
+            },
+            {
+                "seating": 350,
+                "floating": 600,
+                "area": "Savaya AC Banquet*",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 70,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Le-Roma-Samsara-24917458"
+    },
+    {
+        "name": "Park Inn & Suites by Radisson Bengaluru Yelahanka - Yelahanka, Bangalore",
+        "location": "Devanahalli, Bangalore (View on Map)Park Inn & Suites by Radisson Bengaluru Yelahanka, Doddaballapur Main Road,...",
+        "pricing": {
+            "veg_price_per_plate": 1800,
+            "non_veg_price_per_plate": 1800,
+            "destination_wedding_price": 1000000
+        },
+        "capacity": [
+            {
+                "seating": 250,
+                "floating": 300,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 250,
+                "floating": 300,
+                "area": "food court area",
+                "type": "indoor"
+            },
+            {
+                "seating": 25,
+                "floating": 30,
+                "area": "Poolside",
+                "type": "poolside"
+            },
+            {
+                "seating": 650,
+                "floating": 700,
+                "area": "Satkar Ballroom Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 70,
+                "floating": 80,
+                "area": "Cypress Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 70,
+                "floating": 80,
+                "area": "Croton Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 30,
+                "floating": 36,
+                "area": "Licuala Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 10,
+                "floating": 10,
+                "area": "Ballroom (Heliconia)",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 59,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Park-Inn-and-Suites-by-Radisson-Bengaluru-Yelahanka-25774220"
+    },
+    {
+        "name": "Shree Swargha Heritage Wedding Venue - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Shree Swargha Heritage Wedding Venue, 1st Cross Road, 2nd Phase, Chowdappa ...",
+        "pricing": {
+            "starting_price_decor": 250000,
+            "rental_cost": 440000
+        },
+        "capacity": [
+            {
+                "seating": 800,
+                "floating": 900,
+                "area": "Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 700,
+                "floating": 1000,
+                "area": "Lawn 1",
+                "type": "outdoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Lawn 2",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 40,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Shree-Swargha-Heritage-Wedding-Venue-2505837"
+    },
+    {
+        "name": "Gayatri Vihar Sagar - Palace Ground Bengaluru - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Gayatri Vihar Sagar Gate No. 4, Near Mekhri Circle, Bellary Road,, Bengalur...",
+        "pricing": {
+            "veg_price_per_plate": 3500
+        },
+        "capacity": [
+            {
+                "seating": 5000,
+                "floating": 10000,
+                "area": "Royal Banquet Hall",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 400,
+                "floating": 800,
+                "area": "Mini Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 800,
+                "floating": 1000,
+                "area": "The Designer Garden",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 20,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Gayatri-Vihar-Sagar-Palace-Ground-Bengaluru-102242"
+    },
+    {
+        "name": "Manasa Banquet & Lawns - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)MANASA - Banquet & Lawns, Magadi Main Road, Bengaluru, Karnataka, India",
+        "pricing": {
+            "rental_cost": 350000
+        },
+        "capacity": [
+            {
+                "seating": 350,
+                "floating": 400,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 2500,
+                "floating": 3000,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 10,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Manasa-Banquet-and-Lawns-864089"
+    },
+    {
+        "name": "Omtara Kuteera -  Bangalore",
+        "location": "Bangalore (View on Map)Omthara Kala Kuteera, Magadi, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 1000
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 800,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 1200,
+                "floating": 1500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Rooftop Banquet",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 18,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Omtara-Kuteera-690136"
+    },
+    {
+        "name": "The LaLiT Ashok Bangalore - North Bangalore, Bangalore",
+        "location": "Sheshadripuram, Bangalore (View on Map)The LaLiT Ashok Bengaluru, Kumarakrupa Road, High Grounds, Seshadripuram, B...",
+        "pricing": {
+            "veg_price_per_plate": 3000,
+            "non_veg_price_per_plate": 3000
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 1500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 900,
+                "floating": 1500,
+                "area": "Kalinga",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 400,
+                "area": "Lalit 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 400,
+                "area": "Lalit 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Lalit 3",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Lalit 4",
+                "type": "indoor"
+            },
+            {
+                "seating": 350,
+                "floating": 400,
+                "area": "Grand Ballroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Siddartha",
+                "type": "indoor"
+            },
+            {
+                "seating": 600,
+                "floating": 800,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 184,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Lalit-Ashok-35823"
+    },
+    {
+        "name": "The Pergola - North Bangalore, Bangalore",
+        "location": "Yeswanthpur, Bangalore (View on Map)The Pergola, Yeshwanthpur, Bengaluru, Karnataka, India",
+        "pricing": {
+            "starting_price_decor": 70000,
+            "rental_cost": 110000
+        },
+        "capacity": [
+            {
+                "seating": 250,
+                "floating": 450,
+                "area": "Outdoor Lawn",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 2,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Pergola-103101"
+    },
+    {
+        "name": "Riveria Club - Sarjapur Main Road, Bangalore",
+        "location": "Sarjapur Main Road, Bangalore (View on Map)Sarjapur - Marathahalli Rd, Yamare Village, Bengaluru, Karnataka 562125, In...",
+        "pricing": {
+            "veg_price_per_plate": 1399,
+            "non_veg_price_per_plate": 1399
+        },
+        "capacity": [
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 300,
+                "area": "Open Terrace",
+                "type": "outdoor"
+            },
+            {
+                "seating": 50,
+                "floating": 80,
+                "area": "Swimming Pool Deck",
+                "type": "poolside"
+            },
+            {
+                "seating": 50,
+                "floating": 80,
+                "area": "Hall with Terrace",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 2,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Riveria-Club-24744875"
+    },
+    {
+        "name": "White Housse - South Bangalore, Bangalore",
+        "location": "HSR Layout, Bangalore (View on Map)White Housse, 14th Main Road, Sector 6, HSR Layout, Bengaluru, Karnataka, I...",
+        "pricing": {
+            "starting_price_decor": 5000
+        },
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 2000,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 800,
+                "area": "Party Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 20,
+        "source_url": "https://www.wedmegood.com/wedding-venues/White-Housse-787328"
+    },
+    {
+        "name": "Happy Retreats - KAI -  Chikkaballapur",
+        "location": "Chikkaballapur, Bangalore +1 more city  (View on Map)Happy Retreats - KAI, Agalagurki, Chikkaballapur, Karnataka, India",
+        "pricing": {
+            "rental_cost": 350000
+        },
+        "capacity": [
+            {
+                "seating": 350,
+                "floating": 500,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 350,
+                "floating": 500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 35,
+                "floating": 50,
+                "area": "Poolside",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 20,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Happy-Retreats-KAI-25022822"
+    },
+    {
+        "name": "Geethanjali Wedding Venue - South Bangalore, Bangalore",
+        "location": "South Bangalore, Bangalore (View on Map)QGMF+PRC, Estate, Tharalu, Karnataka 560082",
+        "pricing": {
+            "starting_price_decor": 50000,
+            "rental_cost": 150000
+        },
+        "capacity": [
+            {
+                "seating": 100,
+                "floating": 400,
+                "area": "Banquet+ Lawn",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 8,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Geethanjali-Wedding-Venue-2370070"
+    },
+    {
+        "name": "The Tamarind Tree - Vajarahalli, Bangalore",
+        "location": "South Bangalore, Bangalore (View on Map)88, Kanakapura Road, JP Nagar 9th Phase",
+        "pricing": {
+            "starting_price_decor": 50000
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 400,
+                "area": "Pond Pavillion",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 600,
+                "floating": 1500,
+                "area": "Gazebo & Lawn",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 120,
+                "floating": 150,
+                "area": "Vishnu Mantapa",
+                "type": "outdoor"
+            },
+            {
+                "seating": 10,
+                "floating": 35,
+                "area": "The Heritage Villa",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 150,
+                "floating": 250,
+                "area": "Athithishala",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 28,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Tamarind-Tree-14465"
+    },
+    {
+        "name": "Nature Knots -  Bangalore",
+        "location": "Bangalore (View on Map)NATURE KNOTS, Nrithyagram, Hesaraghatta Grass Farm, Karnataka, India",
+        "pricing": {
+            "rental_cost": 1400000
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 800,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 600,
+                "floating": 750,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 40,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Nature-Knots-25115177"
+    },
+    {
+        "name": "The Beginning - Sarjapur Main Road, Bangalore",
+        "location": "Sarjapur Main Road, Bangalore (View on Map)Near Wipro IT park, Sarjapur Road. \nNext to Sri Sri Ravishankar Vidya Mandi...",
+        "pricing": {
+            "starting_price_decor": 115000,
+            "rental_cost": 650000
+        },
+        "capacity": [
+            {
+                "seating": 1000,
+                "floating": 2000,
+                "area": "The Euphoria",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 300,
+                "area": "The Tavern",
+                "type": "indoor"
+            },
+            {
+                "seating": 800,
+                "floating": 1500,
+                "area": "Serene Courtyard",
+                "type": "outdoor"
+            },
+            {
+                "seating": 100,
+                "floating": 300,
+                "area": "The Azure",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 16,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Beginning-1274889"
+    },
+    {
+        "name": "Trisara - Sahakar Nagar, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)TRISARA | Wedding Venue in Sahakarnagar\nNew Airport Road Sneha Nagar",
+        "pricing": {
+            "starting_price_decor": 90000,
+            "rental_cost": 95000,
+            "destination_wedding_price": 350000
+        },
+        "capacity": [
+            {
+                "seating": 700,
+                "floating": 1000,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 35,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Trisara-83497"
+    },
+    {
+        "name": "Royalton Leisure - Bannerghatta Main Road, Bangalore",
+        "location": "Bannerghatta Main Road, Bangalore (View on Map)Royalton Leisure, Bangalore Bannerghatta Main Road\nSakalavara Rd Bengaluru ...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 1000,
+                "floating": 2500,
+                "area": "Outdoor Banquet",
+                "type": "outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Indoor Banquet",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Poolside Indoor & Outdoor",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 66,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Royalton-Leisure-422655"
+    },
+    {
+        "name": "Radisson Blu Outer Ring Road - Hal Old Airport Road, Bangalore",
+        "location": "Marathahalli, Bangalore (View on Map)Outer Ring Road, munnekollalu Village, Marathahalli, Bengaluru, Karnataka 5...",
+        "pricing": {
+            "veg_price_per_plate": 2200,
+            "non_veg_price_per_plate": 2200
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 850,
+                "area": "Grand Victoria",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Brain Box",
+                "type": "indoor"
+            },
+            {
+                "seating": 180,
+                "floating": 200,
+                "area": "Arabica & Robusta",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 218,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Radisson-Blu-Outer-Ring-Road-21541"
+    },
+    {
+        "name": "Tamara Weddings and Events - J P Nagar, Bangalore",
+        "location": "J P Nagar, Bangalore (View on Map)Tamara Weddings and Events Venue, Golahalli, Bengaluru, Karnataka, India",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 100,
+                "floating": 150,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 400,
+                "floating": 650,
+                "area": "Courtyard and Lawns",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 4,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Tamara-Weddings-and-Events-190248"
+    },
+    {
+        "name": "Fiestaa Resort n Events Venue - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Fiestaa Resort n Events Venue, Boyalahalli, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 1080,
+            "non_veg_price_per_plate": 1080
+        },
+        "capacity": [
+            {
+                "seating": 1500,
+                "floating": 2000,
+                "area": "Camaraderie - Large Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Lavender Luv",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Mango Bar - Poolside",
+                "type": "outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 400,
+                "area": "Aarunya",
+                "type": "indoor"
+            },
+            {
+                "seating": 400,
+                "floating": 600,
+                "area": "Thulasi",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 49,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Fiestaa-Resort-n-Events-Venue-409062"
+    },
+    {
+        "name": "MANTRA - The Luxury Wedding Destination - Sarjapur Main Road, Bangalore",
+        "location": "Sarjapur Main Road, Bangalore (View on Map)MANTRA - The Luxury Wedding Destination, Gunjur-Doddakannelli Road, Chikkab...",
+        "pricing": {
+            "rental_cost": 1200000
+        },
+        "capacity": [
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "JALAMANTAPA",
+                "type": "indoor"
+            },
+            {
+                "seating": 600,
+                "floating": 800,
+                "area": "ARAMANE",
+                "type": "indoor"
+            },
+            {
+                "seating": 300,
+                "floating": 400,
+                "area": "BALI GARDEN",
+                "type": "outdoor"
+            },
+            {
+                "seating": 600,
+                "floating": 2500,
+                "area": "DINING HALL",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 10,
+        "source_url": "https://www.wedmegood.com/wedding-venues/MANTRA-The-Luxury-Wedding-Destination-470092"
+    },
+    {
+        "name": "The Fern Citadel -  Bangalore",
+        "location": "Bangalore (View on Map)Seshadri Road,, Ananda Rao Circle,, Bengaluru, Karnataka 560009",
+        "pricing": {
+            "veg_price_per_plate": 750,
+            "non_veg_price_per_plate": 750
+        },
+        "capacity": [
+            {
+                "seating": 250,
+                "floating": 350,
+                "area": "President 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "President 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "President 3",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 350,
+                "area": "Maharaja",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 113,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Citadel-22039"
+    },
+    {
+        "name": "Ramanashree California Resort - Yelahanka, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Ananthapura Gate, Doddaballapur Road,, Yelahanka, Bengaluru,",
+        "pricing": {
+            "veg_price_per_plate": 1500,
+            "non_veg_price_per_plate": 1500
+        },
+        "capacity": [
+            {
+                "seating": 450,
+                "floating": 1000,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Ramanshree-California-Resort-22085"
+    },
+    {
+        "name": "Jayamahal Palace Hotel - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Jayamahal Road, Near Cantonment Railway Station, Bengaluru, Karnataka 56004...",
+        "pricing": {
+            "veg_price_per_plate": 1800,
+            "non_veg_price_per_plate": 1800,
+            "starting_price_decor": 150000
+        },
+        "capacity": [
+            {
+                "seating": 1200,
+                "floating": 2000,
+                "area": "Front Palace Lawn Area",
+                "type": "outdoor"
+            },
+            {
+                "seating": 1200,
+                "floating": 2000,
+                "area": "AC Convention Hall with Lawn",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "AC Darbar Hall",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 650,
+                "floating": 800,
+                "area": "Poolside with Lawn",
+                "type": "poolside"
+            },
+            {
+                "seating": 200,
+                "floating": 500,
+                "area": "Golden Lawn",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 36,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Jayamahal-Palace-Hotel-42095"
+    },
+    {
+        "name": "Onix Banquet Halls - Shivaji Nagar, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Onix Banquet Halls - Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka, Ind...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 150,
+                "floating": 250,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Onix-Banquet-Halls-648512"
+    },
+    {
+        "name": "Sri Convention Centre - Subramanyapura, Bangalore",
+        "location": "South Bangalore, Bangalore (View on Map)Banashankari 6th Stage 1st Block, Bharath Housing Society Layout, Subramany...",
+        "pricing": {
+            "veg_price_per_plate": 500,
+            "starting_price_decor": 51000
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 1200,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 2000,
+                "floating": 10000,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Sri-Convention-Centre-86261"
+    },
+    {
+        "name": "ITC Gardenia -  Bangalore",
+        "location": "Bangalore (View on Map)Ashok Nagar, Bengaluru, Karnataka 560025",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 120,
+                "floating": 300,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 330,
+                "floating": 550,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 292,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Itc-Gardenia-13069"
+    },
+    {
+        "name": "The Leela Palace Bangalore - Marathahalli, Bangalore",
+        "location": "Hal Old Airport Road, Bangalore (View on Map)HAL Old Airport Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+        "pricing": {
+            "veg_price_per_plate": 5000,
+            "non_veg_price_per_plate": 5000,
+            "destination_wedding_price": 4500000
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 900,
+                "area": "Grand Ballroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 250,
+                "area": "Royal Ballroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Diya & Terrace",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 30,
+                "floating": 50,
+                "area": "Nidhi",
+                "type": "indoor"
+            },
+            {
+                "seating": 50,
+                "floating": 50,
+                "area": "Surya & Terrace",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 200,
+                "floating": 450,
+                "area": "Maharaja Ballroom",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 200,
+                "floating": 350,
+                "area": "Poolside",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 357,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Leela-Palace-34644"
+    },
+    {
+        "name": "Hotel Royal Orchid Bangalore - Domlur, Bangalore",
+        "location": "Indiranagar, Bangalore (View on Map)Hotel Royal Orchid Bangalore, HAL Old Airport Road, Domlur, Bengaluru, Karn...",
+        "pricing": {
+            "veg_price_per_plate": 2800,
+            "non_veg_price_per_plate": 2800
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 270,
+                "area": "Spring Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 300,
+                "floating": 370,
+                "area": "Seasons Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 70,
+                "floating": 100,
+                "area": "Autumn Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 500,
+                "area": "Jeffs Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 550,
+                "area": "Seasons Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 80,
+                "floating": 100,
+                "area": "Poolside",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 200,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Hotel-Royal-Orchid-Bangalore-9395"
+    },
+    {
+        "name": "Safina Banquets - Shivaji Nagar, Bangalore",
+        "location": "Shivaji Nagar, Bangalore (View on Map)Infantry Road, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Terrace gardens",
+                "type": "outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Sky Terrace",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 1,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Safina-Banquets-22060"
+    },
+    {
+        "name": "Icon Boutique Hotel - Domlur, Bangalore",
+        "location": "Indiranagar, Bangalore (View on Map)#210, 1st main Across  ESI Hospital main road Domlur 2nd stag Indiranagar b...",
+        "pricing": {
+            "veg_price_per_plate": 500,
+            "non_veg_price_per_plate": 500,
+            "starting_price_decor": 5000
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 350,
+                "area": "Utsav- I",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Utsav-II",
+                "type": "indoor"
+            },
+            {
+                "seating": 20,
+                "floating": 30,
+                "area": "Board Room",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 30,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Icon-Boutique-Hotel-480998"
+    },
+    {
+        "name": "SVS Aura Banquet - Sarjapur Main Road, Bangalore",
+        "location": "Dommasandra, Bangalore (View on Map)SVS Aura Banquet, Sarjapur Main Road, Muthanallur, Bengaluru, Karnataka, In...",
+        "pricing": {
+            "starting_price_decor": 175000
+        },
+        "capacity": [
+            {
+                "seating": 250,
+                "floating": 400,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 125,
+                "floating": 400,
+                "area": "Dining Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 2,
+        "source_url": "https://www.wedmegood.com/wedding-venues/SVS-Aura-Banquet-711915"
+    },
+    {
+        "name": "Citadelle Resort - North Bangalore, Bangalore",
+        "location": "Hebbal, Bangalore (View on Map)Hebbal, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 700,
+            "non_veg_price_per_plate": 700
+        },
+        "capacity": [
+            {
+                "seating": 100,
+                "floating": 150,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 2,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Citadelle-Resort-1274245"
+    },
+    {
+        "name": "Princess Green Palace Ground - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Bellary Rd, Armane Nagar, Bengaluru, Karnataka 560006",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 300,
+                "floating": 450,
+                "area": "Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 1500,
+                "floating": 2500,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Panel caterers allowed"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Princess-Green-Palace-Ground-138708"
+    },
+    {
+        "name": "Nandana Magnolious - South Bangalore, Bangalore",
+        "location": "Badamanavarthekaval, Bangalore (View on Map)No. 61/P4,  Pipeline Road, (Near Kanakapura Road), \nLakshmipura, Bengaluru,...",
+        "pricing": {
+            "rental_cost": 375000
+        },
+        "capacity": [
+            {
+                "seating": 750,
+                "floating": 1000,
+                "area": "Skylight Pavilion + Courtyard",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 500,
+                "floating": 750,
+                "area": "Brookview Palisades",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Orchard Falls Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 10,
+                "floating": 25,
+                "area": "Rock Garden",
+                "type": "outdoor"
+            },
+            {
+                "seating": 10,
+                "floating": 1500,
+                "area": "Full Venue",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 2,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Nandana-Magnolious-3287398"
+    },
+    {
+        "name": "Vijayarajagopal Kalyana Mantapa - Sarjapur Main Road, Bangalore",
+        "location": "Sarjapur, Bangalore (View on Map)Vijayarajagopal Kalyana Mantapa, Sarjapur, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 400
+        },
+        "capacity": [
+            {
+                "seating": 450,
+                "floating": 700,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Vijayarajagopal-Kalyana-Mantapa-1065151"
+    },
+    {
+        "name": "Chairman's Club & Resort - Sahakar Nagar, Bangalore",
+        "location": "Sahakar Nagar, Bangalore (View on Map)14/1, Kodigehalli Main Road, CQAL Layout, Sahakar Nagar, Bengaluru, Bangalo...",
+        "pricing": {
+            "starting_price_decor": 25000
+        },
+        "capacity": [
+            {
+                "seating": 60,
+                "floating": 80,
+                "area": "Hejje",
+                "type": "indoor"
+            },
+            {
+                "seating": 450,
+                "floating": 600,
+                "area": "Louscious",
+                "type": "indoor"
+            },
+            {
+                "seating": 1150,
+                "floating": 1500,
+                "area": "Blue Sky Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 27,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Chairmans-Club-and-Resort-662682"
+    },
+    {
+        "name": "Bonfire Banni Mantapa - South Bangalore, Bangalore",
+        "location": "Kanakapura Road, Bangalore (View on Map)Nettigere, Bangalore Urban, Karnataka, India",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 700,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 400,
+                "floating": 500,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 600,
+                "floating": 1000,
+                "area": "Lawn Area",
+                "type": "outdoor"
+            },
+            {
+                "seating": 500,
+                "floating": 600,
+                "area": "Poolside Area",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": 20,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Bonfire-Banni-Mantapa-1431949"
+    },
+    {
+        "name": "Nesara Centre For Culture - Kanakapura Road, Bangalore",
+        "location": "Kanakapura Road, Bangalore (View on Map)Nesara Centre For Culture | Luxury wedding venue in Bangalore, Grama pancha...",
+        "pricing": {
+            "veg_price_per_plate": 650,
+            "non_veg_price_per_plate": 650,
+            "starting_price_decor": 500000
+        },
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 750,
+                "area": "Banquet 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 1000,
+                "floating": 4000,
+                "area": "Large Lawn",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 500,
+                "floating": 750,
+                "area": "Small Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 50,
+                "floating": 150,
+                "area": "Bridal Villa - Poolside",
+                "type": "outdoor"
+            },
+            {
+                "seating": 250,
+                "floating": 300,
+                "area": "Exclusive Dinning Space",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 15,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Nesara-centre-for-culture-226114"
+    },
+    {
+        "name": "Sri Convention Center & Party Hall - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)SRI CONVENTION CENTER AND PARTY HALL HEBBAL KEMPAPURA, Dasarahalli Main Roa...",
+        "pricing": {
+            "veg_price_per_plate": 475,
+            "starting_price_decor": 15000
+        },
+        "capacity": [
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 50,
+                "floating": 70,
+                "area": "Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 80,
+                "floating": 120,
+                "area": "Hall 2",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 7,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Sri-Convention-Center-and-Party-Hall-543291"
+    },
+    {
+        "name": "The Windflower Prakruthi -  Bangalore",
+        "location": "Bangalore (View on Map)The Windflower Prakruthi Resort & Spa Plot no 12 A, Heganahalli village, Ku...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 800,
+                "area": "Lawn 1",
+                "type": "outdoor"
+            },
+            {
+                "seating": 150,
+                "floating": 250,
+                "area": "Lawn 2",
+                "type": "outdoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Lawn 3",
+                "type": "outdoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Lawn 4",
+                "type": "outdoor"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Banquet 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 350,
+                "area": "Banquet 2",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 50,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Windflower-Prakruthi-87130"
+    },
+    {
+        "name": "Meenakshi Resorts - Electronic City, Bangalore",
+        "location": "Electronic City, Bangalore (View on Map)The Meenakshi Resorts, Taluk, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 750,
+            "non_veg_price_per_plate": 750,
+            "starting_price_decor": 50000
+        },
+        "capacity": [
+            {
+                "seating": 1000,
+                "floating": 1200,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 500,
+                "floating": 700,
+                "area": "Banquet",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 50,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Meenakshi-Resorts-664522"
+    },
+    {
+        "name": "Gardeenia Comfortes - Electronic City, Bangalore",
+        "location": "Electronic City, Bangalore (View on Map)52 & 56, Opp To Shetron & Canara Bank, \nHosur Main Road, Bommasandra Indust...",
+        "pricing": {
+            "veg_price_per_plate": 600,
+            "non_veg_price_per_plate": 600,
+            "starting_price_decor": 4000
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 350,
+                "area": "Banquet Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Banquet Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 400,
+                "floating": 600,
+                "area": "Open Hall",
+                "type": "outdoor"
+            },
+            {
+                "seating": 250,
+                "floating": 500,
+                "area": "tulip",
+                "type": "indoor"
+            },
+            {
+                "seating": 800,
+                "floating": 1500,
+                "area": "pool side",
+                "type": "poolside"
+            },
+            {
+                "seating": 50,
+                "floating": 60,
+                "area": "board room",
+                "type": "indoor"
+            },
+            {
+                "seating": 500,
+                "floating": 750,
+                "area": "open hall",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 50,
+                "floating": 75,
+                "area": "ritz",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 204,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Gardeenia-Comfortes-599923"
+    },
+    {
+        "name": "Elim Resorts - South Bangalore, Bangalore",
+        "location": "Kanakapura Road, Bangalore (View on Map)Kanakapura Main Road, Netegere Village, Bollare Post, Bengaluru, Karnataka ...",
+        "pricing": {
+            "veg_price_per_plate": 700,
+            "non_veg_price_per_plate": 700,
+            "destination_wedding_price": 350000
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Banquet Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 500,
+                "floating": 700,
+                "area": "Banquet Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 4000,
+                "floating": 5000,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 1000,
+                "floating": 1500,
+                "area": "Pool Side",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 52,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Elim-resorts-17727"
+    },
+    {
+        "name": "Fortune Park JP Celestial - ITC's Hotel Group - Race Course Road, Bangalore",
+        "location": "Race Course Road, Bangalore (View on Map)Fortune Park JP Celestial, Race Course Road, near Anand Rao Circle, Racecou...",
+        "pricing": {
+            "veg_price_per_plate": 1500,
+            "non_veg_price_per_plate": 1500,
+            "starting_price_decor": 30000
+        },
+        "capacity": [
+            {
+                "seating": 350,
+                "floating": 600,
+                "area": "Hamilton",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Regal",
+                "type": "indoor"
+            },
+            {
+                "seating": 350,
+                "floating": 500,
+                "area": "Edenburgh",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Buckingham II",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Windsor",
+                "type": "indoor"
+            },
+            {
+                "seating": 500,
+                "floating": 1000,
+                "area": "Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 300,
+                "area": "Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 40,
+                "floating": 80,
+                "area": "Pool Side",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 129,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Fortune-Park-JP-Celestial-2894946"
+    },
+    {
+        "name": "37th Crescent - Race Course Road, Bangalore",
+        "location": "Vasanth Nagar, Bangalore (View on Map)#37 Crescent Road Near Race Course, Opp Mallige Hospital, High Grounds, Ban...",
+        "pricing": {
+            "veg_price_per_plate": 850,
+            "non_veg_price_per_plate": 850
+        },
+        "capacity": [
+            {
+                "seating": 100,
+                "floating": 150,
+                "area": "Banquet Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 40,
+                "floating": 55,
+                "area": "Banquet Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 40,
+                "floating": 55,
+                "area": "Banquet Hall 3",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 60,
+        "source_url": "https://www.wedmegood.com/wedding-venues/37th-Crescent-513878"
+    },
+    {
+        "name": "V legacy - South Bangalore, Bangalore",
+        "location": "South Bangalore, Bangalore (View on Map)V Legacy, V Legacy Road, Banashankari 3rd Stage, Hosakerehalli, Bangalore, ...",
+        "pricing": {
+            "starting_price_decor": 80000,
+            "rental_cost": 1200000
+        },
+        "capacity": [
+            {
+                "seating": 1200,
+                "floating": 1800,
+                "area": "Aura",
+                "type": "indoor"
+            },
+            {
+                "seating": 500,
+                "floating": 750,
+                "area": "Dining Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Panel caterers allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": 18,
+        "source_url": "https://www.wedmegood.com/wedding-venues/V-legacy-667086"
+    },
+    {
+        "name": "Xeric Hall - The Avenue Hotel - Electronic City, Bommasandra",
+        "location": "Electronic City, Bommasandra (View on Map)Bommasandra",
+        "pricing": {
+            "veg_price_per_plate": 550,
+            "non_veg_price_per_plate": 550
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 1000,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Roof Top",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 24,
+        "source_url": "https://www.wedmegood.com/wedding-venues/xeric-hall--the-avenue-hotel-1868680"
+    },
+    {
+        "name": "The Taj West End - Shivaji Nagar, Bangalore",
+        "location": "MG Road, Bangalore (View on Map)Race Course Road, High Grounds, Sampangi Rama Nagar, Bengaluru, Karnataka 5...",
+        "pricing": {
+            "veg_price_per_plate": 4500,
+            "non_veg_price_per_plate": 4500
+        },
+        "capacity": [
+            {
+                "seating": 50,
+                "floating": 80,
+                "area": "Banquet Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 400,
+                "floating": 450,
+                "area": "Banquet Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 700,
+                "floating": 1000,
+                "area": "Banquet Hall 3",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 1200,
+                "area": "Lawn 1",
+                "type": "outdoor"
+            },
+            {
+                "seating": 50,
+                "floating": 75,
+                "area": "Lawn 2",
+                "type": "outdoor"
+            },
+            {
+                "seating": 50,
+                "floating": 75,
+                "area": "Poolside",
+                "type": "poolside"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Blue Bar",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 117,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Taj-West-End-37887"
+    },
+    {
+        "name": "Jayamahal Palace Hotel - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Jayamahal Road, Near Cantonment Railway Station, Bengaluru, Karnataka 56004...",
+        "pricing": {
+            "veg_price_per_plate": 1800,
+            "non_veg_price_per_plate": 1800,
+            "starting_price_decor": 150000
+        },
+        "capacity": [
+            {
+                "seating": 1200,
+                "floating": 2000,
+                "area": "Front Palace Lawn Area",
+                "type": "outdoor"
+            },
+            {
+                "seating": 1200,
+                "floating": 2000,
+                "area": "AC Convention Hall with Lawn",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "AC Darbar Hall",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 650,
+                "floating": 800,
+                "area": "Poolside with Lawn",
+                "type": "poolside"
+            },
+            {
+                "seating": 200,
+                "floating": 500,
+                "area": "Golden Lawn",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 36,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Jayamahal-Palace-Hotel-42095"
+    },
+    {
+        "name": "The Leela Palace Bangalore - Marathahalli, Bangalore",
+        "location": "Hal Old Airport Road, Bangalore (View on Map)HAL Old Airport Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+        "pricing": {
+            "veg_price_per_plate": 5000,
+            "non_veg_price_per_plate": 5000,
+            "destination_wedding_price": 4500000
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 900,
+                "area": "Grand Ballroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 250,
+                "area": "Royal Ballroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Diya & Terrace",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 30,
+                "floating": 50,
+                "area": "Nidhi",
+                "type": "indoor"
+            },
+            {
+                "seating": 50,
+                "floating": 50,
+                "area": "Surya & Terrace",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 200,
+                "floating": 450,
+                "area": "Maharaja Ballroom",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 200,
+                "floating": 350,
+                "area": "Poolside",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 357,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Leela-Palace-34644"
+    },
+    {
+        "name": "Temple Tree Leisure Bangalore - Bettadasanapura, Bangalore",
+        "location": "Bettadasanapura, Bangalore (View on Map)Temple Tree Leisure, Bettadasanapura Road, Electronic City, Bengaluru, Karn...",
+        "pricing": {
+            "rental_cost": 275000
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 600,
+                "floating": 800,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 10,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Temple-Tree-Leisure-Bangalore-3283"
+    },
+    {
+        "name": "Eagle Ridge Resort - South Bangalore, Bangalore",
+        "location": "Bannerghatta Main Road, Bangalore (View on Map)Eagle Ridge Resort, Koppa - Begur Road, Eagle Ridge, Begur, Bangalore, Karn...",
+        "pricing": {
+            "veg_price_per_plate": 1700,
+            "non_veg_price_per_plate": 1700
+        },
+        "capacity": [
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 100,
+                "floating": 150,
+                "area": "Poolside",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Eagle-Ridge-Resort-789742"
+    },
+    {
+        "name": "Le Roma Gardenia - Yelahanka, Bangalore",
+        "location": "Yelahanka, Bangalore (View on Map)Le Roma Gardenia, Avalahalli Village, Off Ivri Road, Near Nagarjuna Vidyani...",
+        "pricing": {
+            "veg_price_per_plate": 800,
+            "non_veg_price_per_plate": 800,
+            "starting_price_decor": 70000
+        },
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 850,
+                "area": "Indoor and Outdoor",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 18,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Le-Roma-Gardenia-977214"
+    },
+    {
+        "name": "JW Marriott Hotel Bangalore - Vittal Mallya Road, Bangalore",
+        "location": "Vittal Mallya Road, Bangalore (View on Map)Vittal Mallya Road, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karn...",
+        "pricing": {
+            "veg_price_per_plate": 3300,
+            "non_veg_price_per_plate": 3300
+        },
+        "capacity": [
+            {
+                "seating": 520,
+                "floating": 1300,
+                "area": "JW Lawns",
+                "type": "outdoor"
+            },
+            {
+                "seating": 600,
+                "floating": 1000,
+                "area": "Grand Ballroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 120,
+                "floating": 200,
+                "area": "The Living Room",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 281,
+        "source_url": "https://www.wedmegood.com/wedding-venues/JW-Marriott-Hotel-35814"
+    },
+    {
+        "name": "The Ritz-Carlton, Bangalore - Brigade Road, Bangalore",
+        "location": "Brigade Road, Bangalore (View on Map)Residency Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "pricing": {
+            "veg_price_per_plate": 2700,
+            "non_veg_price_per_plate": 2700
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 700,
+                "area": "The Ritz-Carlton Ballroom",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 30,
+                "floating": 50,
+                "area": "Tasar",
+                "type": "indoor"
+            },
+            {
+                "seating": 30,
+                "floating": 50,
+                "area": "Eri",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Tasar + Eri",
+                "type": "indoor"
+            },
+            {
+                "seating": 25,
+                "floating": 30,
+                "area": "Mulberry",
+                "type": "indoor"
+            },
+            {
+                "seating": 50,
+                "floating": 70,
+                "area": "Muga",
+                "type": "indoor"
+            },
+            {
+                "seating": 12,
+                "floating": 12,
+                "area": "The Boardroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 130,
+                "area": "BANG",
+                "type": "outdoor"
+            },
+            {
+                "seating": 80,
+                "floating": 120,
+                "area": "Riwaz",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 273,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Ritz-Carlton-Bangalore-21073"
+    },
+    {
+        "name": "Bungalow 7 - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)7 Hall Road,  Richards Park, Bangalore  Karnataka, India.",
+        "pricing": {
+            "starting_price_decor": 25000
+        },
+        "capacity": [
+            {
+                "seating": 120,
+                "floating": 300,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 90,
+                "floating": 150,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Panel caterers allowed",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Bungalow-7-42292"
+    },
+    {
+        "name": "Attide Boutique Hotel - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Opp Jakkur Aerodrome, \nAllalasandra, Yelahanka,\nBangalore - 560065",
+        "pricing": {
+            "veg_price_per_plate": 1600,
+            "non_veg_price_per_plate": 1600,
+            "destination_wedding_price": 330000
+        },
+        "capacity": [
+            {
+                "seating": 350,
+                "floating": 400,
+                "area": "Banquet Hall - 4 Floor",
+                "type": "indoor"
+            },
+            {
+                "seating": 120,
+                "floating": 150,
+                "area": "Banquet Hall - 1 floor",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 60,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Attide-Boutique-Hotel-516111"
+    },
+    {
+        "name": "The Fern Citadel -  Bangalore",
+        "location": "Bangalore (View on Map)Seshadri Road,, Ananda Rao Circle,, Bengaluru, Karnataka 560009",
+        "pricing": {
+            "veg_price_per_plate": 750,
+            "non_veg_price_per_plate": 750
+        },
+        "capacity": [
+            {
+                "seating": 250,
+                "floating": 350,
+                "area": "President 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "President 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "President 3",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 350,
+                "area": "Maharaja",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 113,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Citadel-22039"
+    },
+    {
+        "name": "Goldfinch Hotel Bengaluru - Race Course Road, Bangalore",
+        "location": "Race Course Road, Bangalore (View on Map)32/3, Crescent Rd, inside Goldfinch Hotel, off Race Course Road\n32/3 Goldfi...",
+        "pricing": {
+            "veg_price_per_plate": 1200,
+            "non_veg_price_per_plate": 1200,
+            "starting_price_decor": 20000,
+            "destination_wedding_price": 900000
+        },
+        "capacity": [
+            {
+                "seating": 180,
+                "floating": 300,
+                "area": "Silver Bills",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Senate",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 50,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Goldfinch-Hotel-Bengaluru-215153"
+    },
+    {
+        "name": "The Golden Palms Hotel and Spa - Nelamangala, Bangalore",
+        "location": "Nelamangala, Bangalore (View on Map)Golden Palms Avenue, Off Tumkur Road, Bengaluru, Karnataka 562123",
+        "pricing": {
+            "veg_price_per_plate": 2200,
+            "non_veg_price_per_plate": 2200,
+            "starting_price_decor": 50000
+        },
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 600,
+                "area": "Emerald",
+                "type": "indoor"
+            },
+            {
+                "seating": 300,
+                "floating": 450,
+                "area": "Golden Village",
+                "type": "outdoor"
+            },
+            {
+                "seating": 120,
+                "floating": 180,
+                "area": "Garnet",
+                "type": "indoor"
+            },
+            {
+                "seating": 80,
+                "floating": 120,
+                "area": "Ruby",
+                "type": "indoor"
+            },
+            {
+                "seating": 80,
+                "floating": 120,
+                "area": "Opal",
+                "type": "indoor"
+            },
+            {
+                "seating": 75,
+                "floating": 100,
+                "area": "Crystal 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 75,
+                "floating": 100,
+                "area": "Crystal 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 80,
+                "area": "Topaz",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 150,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Golden-Palms-Bangalore-15977"
+    },
+    {
+        "name": "Shangri-La Hotel, Bengaluru - North Bangalore, Bangalore",
+        "location": "Vasanth Nagar, Bangalore (View on Map)Shangri-La Bengaluru, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 2600,
+            "non_veg_price_per_plate": 2600
+        },
+        "capacity": [
+            {
+                "seating": 120,
+                "floating": 320,
+                "area": "Krishna",
+                "type": "indoor"
+            },
+            {
+                "seating": 30,
+                "floating": 90,
+                "area": "Pennar 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 30,
+                "floating": 90,
+                "area": "Pennar 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Kaveri",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 150,
+                "area": "Kabini",
+                "type": "indoor"
+            },
+            {
+                "seating": 12,
+                "floating": 15,
+                "area": "Boardroom",
+                "type": "indoor"
+            },
+            {
+                "seating": 300,
+                "floating": 1200,
+                "area": "Grand Ballroom",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 397,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Shangri-La-Hotel-Bengaluru-78642"
+    },
+    {
+        "name": "ITC Windsor - North Bangalore, Bangalore",
+        "location": "Vasanth Nagar, Bangalore (View on Map)ITC Windsor, Bengaluru, Karnataka, India",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 225,
+                "floating": 500,
+                "area": "Regency 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 120,
+                "floating": 200,
+                "area": "Regency 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 150,
+                "area": "Westminster",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Poolside",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 240,
+        "source_url": "https://www.wedmegood.com/wedding-venues/ITC-Windsor-83480"
+    },
+    {
+        "name": "Le Meridien, Bangalore - Vasanth Nagar, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Sankey Road, P.B. No. 174 (Opposite Bangalore Golf Club), Bengaluru, Karnat...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 600,
+                "area": "Banquet Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 120,
+                "floating": 200,
+                "area": "Banquet Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 150,
+                "area": "Banquet Hall 3",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 100,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Le-meridian-22058"
+    },
+    {
+        "name": "Sri Krishna Kalyana Mantapa - Jayanagar, Bangalore",
+        "location": "South Bangalore, Bangalore (View on Map)Sri Krishna Kalyana Mantapa, 5T Block, 4th T Block East, Jayanagar, Bengalu...",
+        "pricing": {
+            "starting_price_decor": 13000
+        },
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 600,
+                "area": "Banquet",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Sri-Krishna-Kalyana-Mantapa-693526"
+    },
+    {
+        "name": "The White Hall - South Bangalore, Bangalore",
+        "location": "Bannerghatta Main Road, Bangalore (View on Map)The WhiteHall, 18/6, C K Palya Rd, Near Bannerghatta Road, Basavanapura, Ba...",
+        "pricing": {
+            "veg_price_per_plate": 600,
+            "non_veg_price_per_plate": 600,
+            "starting_price_decor": 75000
+        },
+        "capacity": [
+            {
+                "seating": 1000,
+                "floating": 2000,
+                "area": "The Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Outdoor Area",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 10,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-White-Hall-621957"
+    },
+    {
+        "name": "DKVS - Dakshina Kannada Vishwa Brahmana Sangha -  Bangalore",
+        "location": "Bangalore",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 60,
+                "floating": 100,
+                "area": "Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/DKVS-Dakshina-Kannada-Vishwa-Brahmana-Sangha-1305424"
+    },
+    {
+        "name": "Tennis Pavilion - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Tennis Pavilion, Vasanth Nagar, Bangalore, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 700,
+            "non_veg_price_per_plate": 700
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 700,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 300,
+                "floating": 400,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Tennis-Pavilion-787305"
+    },
+    {
+        "name": "Siddagangasri Dr. Shivakumara Swamiji Jnana Prakasha Mantapa - Jnana Ganga Nagar, Bangalore",
+        "location": "Jnana Ganga Nagar, Bangalore (View on Map)Mariyappanapalya, Gnanabharathi Layout 2nd Block, Jnana Ganga Nagar, Bengal...",
+        "pricing": {
+            "veg_price_per_plate": 600
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 700,
+                "area": "Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 350,
+                "floating": 500,
+                "area": "Dining Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Siddagangasri-Dr-Shivakumara-Swamiji-Jnana-Prakasha-Mantapa-1065021"
+    },
+    {
+        "name": "Palm Meadows Resort - Whitefield, Bangalore",
+        "location": "Whitefield, Bangalore (View on Map)Palm Meadows Resort, Ramagondana Halli, Varthur Road, Whitefield, Bangalore...",
+        "pricing": {
+            "veg_price_per_plate": 1500,
+            "non_veg_price_per_plate": 1500
+        },
+        "capacity": [
+            {
+                "seating": 80,
+                "floating": 100,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 200,
+                "area": "Poolside",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 50,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Palm-Meadows-Resort-765516"
+    },
+    {
+        "name": "Ubhaya Vedantha Paravaratna Sabha - North Bangalore, Bangalore",
+        "location": "Malleshwaram, Bangalore (View on Map)Ubhaya Vedantha Pravarthana Sabha, East Park Road, Malleshwaram, Bengaluru,...",
+        "pricing": {
+            "veg_price_per_plate": 350
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 750,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Ubhaya-Vedantha-Paravaratna-Sabha-948958"
+    },
+    {
+        "name": "The Venue by Seasons Suites - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)The Venue by Seasons Suites, Doddaballapur Main Road, Yelahanka, Rajanukunt...",
+        "pricing": {
+            "starting_price_decor": 30000,
+            "rental_cost": 35000
+        },
+        "capacity": [
+            {
+                "seating": 70,
+                "floating": 100,
+                "area": "The Venue banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 80,
+                "floating": 120,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 11,
+        "source_url": "https://www.wedmegood.com/wedding-venues/the-venue-by-seasons-suites-4513919"
+    },
+    {
+        "name": "Parvathamma Ramaiah Mangala Bhavana - Nagarbhavi, Bangalore",
+        "location": "Nagarbhavi, Bangalore (View on Map)Parvathamma Ramaiah Mangala Bhavana, Ullal RTO, Upkar Layout, Mallathahalli...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 1000,
+                "floating": 1500,
+                "area": "Banquet",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Parvathamma-Ramaiah-Mangala-Bhavana-745087"
+    },
+    {
+        "name": "Shree Sharana Seva Samaja Community Hall - North Bangalore, Bangalore",
+        "location": "Chord Road, Bangalore (View on Map)Shree Sharana Seva Samaja Community Hall, 1st R Block, Rajajinagar, Bengalu...",
+        "pricing": {
+            "veg_price_per_plate": 300
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 350,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Shree-Sharana-Seva-Samaja-Community-Hall-1099907"
+    },
+    {
+        "name": "Kimberley by Jade - Kunigal, Bangalore",
+        "location": "Kunigal, Bangalore (View on Map)Kunigal Stud Farm, Kunigal, Karnataka, India",
+        "pricing": {
+            "starting_price_decor": 7000
+        },
+        "capacity": [
+            {
+                "seating": 100,
+                "floating": 300,
+                "area": "Indoor",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 500,
+                "area": "Outdoor",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 6,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Kimberley-by-Jade-507825"
+    },
+    {
+        "name": "The Whitefield Inn - Whitefield, Bangalore",
+        "location": "Whitefield, Bangalore (View on Map)406, Outer Circle, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 56006...",
+        "pricing": {
+            "veg_price_per_plate": 800,
+            "non_veg_price_per_plate": 800
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 30,
+                "floating": 50,
+                "area": "Pool",
+                "type": "poolside"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 12,
+        "source_url": "https://www.wedmegood.com/wedding-venues/The-Whitefield-Inn-1298901"
+    },
+    {
+        "name": "Vivanta Bengaluru, Residency Road - MG Road, Bangalore",
+        "location": "MG Road, Bangalore (View on Map)Vivanta Bengaluru, Residency Road, Residency Road, Srinivas Nagar, Shanthal...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 15,
+                "floating": 20,
+                "area": "Committee Room",
+                "type": "indoor"
+            },
+            {
+                "seating": 15,
+                "floating": 20,
+                "area": "Council",
+                "type": "indoor"
+            },
+            {
+                "seating": 40,
+                "floating": 55,
+                "area": "Corporate Room",
+                "type": "indoor"
+            },
+            {
+                "seating": 235,
+                "floating": 300,
+                "area": "Gardenside",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 98,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Vivanta-Bengaluru-Residency-Road-1073523"
+    },
+    {
+        "name": "Oswal Community Centre - Chord Road, Bangalore",
+        "location": "Rajajinagar, Bangalore (View on Map)Oswal Community Centre, Rajaji Nagar Industrial Town, Rajajinagar, Bengalur...",
+        "pricing": {
+            "veg_price_per_plate": 650
+        },
+        "capacity": [
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Oswal-Community-Centre-1099869"
+    },
+    {
+        "name": "Four Seasons Hotel Bengaluru at Embassy ONE - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Four Seasons Hotel Bengaluru at Embassy ONE, Bellary Road, Dena Bank Colony...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Banquet",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 230,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Four-Seasons-Hotel-Bengaluru-at-Embassy-ONE-423844"
+    },
+    {
+        "name": "16 Bedouin -  Bangalore",
+        "location": "Bangalore (View on Map)Plot 116, golden mile, survey number 10/3 kalli agraharam, krishnagiri, tam...",
+        "pricing": {
+            "veg_price_per_plate": 950,
+            "non_veg_price_per_plate": 950,
+            "starting_price_decor": 25000
+        },
+        "capacity": [
+            {
+                "seating": 50,
+                "floating": 80,
+                "area": "Pool Side",
+                "type": "poolside"
+            },
+            {
+                "seating": 70,
+                "floating": 100,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 15,
+        "source_url": "https://www.wedmegood.com/wedding-venues/16-Bedouin-850590"
+    },
+    {
+        "name": "Bonfire Resort - South Bangalore, Bangalore",
+        "location": "Kanakapura Road, Bangalore (View on Map)Bonfire resort, Kanakapura Road, Bengaluru, Karnataka, India",
+        "pricing": {
+            "rental_cost": 500000
+        },
+        "capacity": [
+            {
+                "seating": 250,
+                "floating": 500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 40,
+                "floating": 80,
+                "area": "Indoor",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 22,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Bonfire-Resort-2914527"
+    },
+    {
+        "name": "Aura By Area 83 - Bannerghatta Main Road, Bangalore",
+        "location": "Bannerghatta Main Road, Bangalore (View on Map)Area 83, Bilwaradahalli, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 1400,
+            "non_veg_price_per_plate": 1400,
+            "starting_price_decor": 400000
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 1000,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 45,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Aura-By-Area-83-1214801"
+    },
+    {
+        "name": "Sambhrama - South Bangalore, Bangalore",
+        "location": "J P Nagar, Bangalore (View on Map)Sambhrama, Anjanapura Township, Bengaluru, Karnataka, India",
+        "pricing": {
+            "starting_price_decor": 150000,
+            "rental_cost": 260000
+        },
+        "capacity": [
+            {
+                "seating": 100,
+                "floating": 120,
+                "area": "Banquet",
+                "type": "indoor"
+            },
+            {
+                "seating": 500,
+                "floating": 600,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 6,
+        "source_url": "https://www.wedmegood.com/wedding-venues/sambhrama-24587347"
+    },
+    {
+        "name": "Ebisu Convention Center - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)EBISU Convention Center, State Highway 104, Opposite Regal Hospital, Balaji...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 1300,
+                "floating": 1500,
+                "area": "Banquet Hall 1",
+                "type": "indoor"
+            },
+            {
+                "seating": 450,
+                "floating": 600,
+                "area": "Banquet Hall 2",
+                "type": "indoor"
+            },
+            {
+                "seating": 2000,
+                "floating": 2500,
+                "area": "Lawn",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 18,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Ebisu-Convention-Center-2925302"
+    },
+    {
+        "name": "ITC Gardenia -  Bangalore",
+        "location": "Bangalore (View on Map)Ashok Nagar, Bengaluru, Karnataka 560025",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 120,
+                "floating": 300,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 330,
+                "floating": 550,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 292,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Itc-Gardenia-13069"
+    },
+    {
+        "name": "Eeshaavasya - Devanahalli, Bangalore",
+        "location": "Devanahalli, Bangalore (View on Map)Eeshaavasya, Hobli, Taluk, Devanahally, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 1500,
+            "non_veg_price_per_plate": 1500,
+            "starting_price_decor": 35000
+        },
+        "capacity": [
+            {
+                "seating": 300,
+                "floating": 500,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 4,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Eeshaavasya-25348154"
+    },
+    {
+        "name": "Hotel The Sai Leela, Yelahanka - Devanahalli, Bangalore",
+        "location": "Devanahalli, Bangalore (View on Map)No.3/1, The Sai Leela,\nSinganayakanahalli, Doddabalapur Main Road,\nYelahank...",
+        "pricing": {
+            "veg_price_per_plate": 850,
+            "non_veg_price_per_plate": 850,
+            "starting_price_decor": 15000
+        },
+        "capacity": [
+            {
+                "seating": 150,
+                "floating": 250,
+                "area": "Leela Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 200,
+                "floating": 500,
+                "area": "Sarangi Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 300,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 700,
+                "floating": 3000,
+                "area": "Sai Satkar Convention Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 1000,
+                "area": "Dining Hall(Veg Only)",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 36,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Hotel-The-Sai-Leela-Yelahanka-514397"
+    },
+    {
+        "name": "Royal Lotus View Resotel - North Bangalore, Bangalore",
+        "location": "Devanahalli, Bangalore (View on Map)Royal Lotus View Resotel, Chikkajala, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 500,
+            "non_veg_price_per_plate": 500
+        },
+        "capacity": [
+            {
+                "seating": 250,
+                "floating": 400,
+                "area": "Banquet",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 25,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Royal-Lotus-View-Resotel-1219099"
+    },
+    {
+        "name": "Chamara Vajra - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)Chamara Vajra, Chamundi Hotel Private Limited, Jayamahal Main Road, Jayamah...",
+        "pricing": {
+            "starting_price_decor": 40000
+        },
+        "capacity": [
+            {
+                "seating": 800,
+                "floating": 1200,
+                "area": "Mukta",
+                "type": "outdoor"
+            },
+            {
+                "seating": 2000,
+                "floating": 3500,
+                "area": "Maanikya",
+                "type": "indoor"
+            },
+            {
+                "seating": 5000,
+                "floating": 10000,
+                "area": "Markata",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": 16,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Chamara-Vajra-1062427"
+    },
+    {
+        "name": "Olde Bangalore - North Bangalore, Bangalore",
+        "location": "Devanahalli, Bangalore (View on Map)Olde Bangalore Resort and Convention Centre, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 850,
+            "non_veg_price_per_plate": 850
+        },
+        "capacity": [
+            {
+                "seating": 150,
+                "floating": 350,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 250,
+                "floating": 500,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 100,
+                "floating": 250,
+                "area": "Poolside",
+                "type": "outdoor"
+            },
+            {
+                "seating": 70,
+                "floating": 100,
+                "area": "Banquet 2",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 25,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Olde-Bangalore-30214"
+    },
+    {
+        "name": "The Chancery -  Bangalore",
+        "location": "Bangalore (View on Map)135, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 56002...",
+        "pricing": {
+            "veg_price_per_plate": 1350,
+            "non_veg_price_per_plate": 1350
+        },
+        "capacity": [
+            {
+                "seating": 720,
+                "floating": 1200,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Chancery-Pavilion-Hotel-17629"
+    },
+    {
+        "name": "Shibravyi Bangalore - Badamanavarthekaval, Bangalore",
+        "location": "Kanakapura Road, Bangalore (View on Map)Nagegowdanapalya, Badamanavarthekaval, Karnataka 560109",
+        "pricing": {
+            "veg_price_per_plate": 750,
+            "non_veg_price_per_plate": 750
+        },
+        "capacity": [
+            {
+                "seating": 500,
+                "floating": 1000,
+                "area": "Lawn",
+                "type": "outdoor"
+            },
+            {
+                "seating": 80,
+                "floating": 120,
+                "area": "Courtyard House",
+                "type": "indoor & outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Shibravyi-Bangalore-47770"
+    },
+    {
+        "name": "LTG Farmhouse - Vittal Mallya Road, Bangalore",
+        "location": "Vittal Mallya Road, Bangalore (View on Map)LTG Farms, Hampapura Road, Bengaluru, Karnataka, India",
+        "pricing": {
+            "veg_price_per_plate": 1200,
+            "non_veg_price_per_plate": 1200,
+            "starting_price_decor": 50000
+        },
+        "capacity": [
+            {
+                "seating": 450,
+                "floating": 5000,
+                "area": "lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 4,
+        "source_url": "https://www.wedmegood.com/wedding-venues/ltg-farmhouse-2260585"
+    },
+    {
+        "name": "Balan Farm Convention Center - J P Nagar, Bangalore",
+        "location": "South Bangalore, Bangalore (View on Map)Nataraja Layout, Between 4th and 5th main, JP Nagar 7th Phase, Bengaluru, K...",
+        "pricing": {
+            "rental_cost": 220000
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 300,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 1000,
+                "floating": 1200,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Panel caterers allowed",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Balan-Farm-Convention-Center-63956"
+    },
+    {
+        "name": "Vijaykiran Convention Centre -  Bangalore",
+        "location": "Bangalore (View on Map)VIJAYKIRAN CONVENTION CENTRE, Varsova Layout, Kaggadasapura, Bengaluru, Kar...",
+        "pricing": {
+            "veg_price_per_plate": 550,
+            "non_veg_price_per_plate": 550
+        },
+        "capacity": [
+            {
+                "seating": 1000,
+                "floating": 1500,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Vijaykiran-Convention-Centre-1062365"
+    },
+    {
+        "name": "MCS Convention Hall - North Bangalore, Bangalore",
+        "location": "North Bangalore, Bangalore (View on Map)MCS Convention ,Nagenahalli Bus Stop, N, Narayanapura, Bengaluru, Karnataka...",
+        "pricing": {
+            "veg_price_per_plate": 750,
+            "non_veg_price_per_plate": 750
+        },
+        "capacity": [
+            {
+                "seating": 700,
+                "floating": 1500,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/MCS-Convention-Hall-787479"
+    },
+    {
+        "name": "Courtyard by Marriott Outer Ring Road - Hebbal, Bangalore",
+        "location": "Nagavara, Bangalore (View on Map)Courtyard by Marriott Bengaluru Hebbal, Outer Ring Road, Jogappa Layout, Na...",
+        "pricing": {},
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 700,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol  permitted",
+            "dj": "In house DJ available, Outside DJ permitted"
+        },
+        "room_count": 120,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Courtyard-by-Marriott-Outer-Ring-Road-2628730"
+    },
+    {
+        "name": "KAP Kalyana Mandapam - Madiwala, Bangalore",
+        "location": "Koramangala, Bangalore (View on Map)KAP Kalyana Mandapam, 2nd Cross Street, Kamaraj Colony, Hosur,",
+        "pricing": {
+            "veg_price_per_plate": 350
+        },
+        "capacity": [
+            {
+                "seating": 200,
+                "floating": 285,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/KAP-Kalyana-Mandapam-999634"
+    },
+    {
+        "name": "Sindhoor Convention Centre - J P Nagar, Bangalore",
+        "location": "South Bangalore, Bangalore (View on Map)Sindhoor Convention Centre, 15th Cross Road, sarakki, 1st Phase, J. P. Naga...",
+        "pricing": {
+            "rental_cost": 350000
+        },
+        "capacity": [
+            {
+                "seating": 700,
+                "floating": 1000,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": 19,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Sindhoor-Convention-Centre-793454"
+    },
+    {
+        "name": "Konkan Samudhai Bhawan - Hennur Gardens, Bangalore",
+        "location": "Kalyan Nagar, Bangalore (View on Map)Konkan Samudai Bhavan, Bangalore",
+        "pricing": {
+            "veg_price_per_plate": 1000,
+            "starting_price_decor": 35000
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 800,
+                "area": "Banquet Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 100,
+                "floating": 200,
+                "area": "Party Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Outside caterering only",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Konkan-Samudhai-Bhawan-437399"
+    },
+    {
+        "name": "BLVD Club - Devanahalli, Bangalore",
+        "location": "Hosahalli, Bangalore (View on Map)BLVD Club, near Yelahanka Airforce Station, Hosahalli, Bangalore, Karnataka...",
+        "pricing": {
+            "veg_price_per_plate": 1800,
+            "non_veg_price_per_plate": 1800
+        },
+        "capacity": [
+            {
+                "seating": 187,
+                "floating": 250,
+                "area": "Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 300,
+                "area": "Pre-Function Area",
+                "type": "indoor & outdoor"
+            },
+            {
+                "seating": 1200,
+                "floating": 1500,
+                "area": "Lawn",
+                "type": "outdoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Decorators from panel only",
+            "alcohol": "In house alcohol not available, Outside alcohol  permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": 14,
+        "source_url": "https://www.wedmegood.com/wedding-venues/BLVD-Club-24994092"
+    },
+    {
+        "name": "Jai Maruthi Convention Hall - Sunkadakatte, Bangalore",
+        "location": "Nagarbhavi, Bangalore (View on Map)Jai Maruthi Convention Hall, Muthuraya Swamy Extension, Hegganahalli, Benga...",
+        "pricing": {
+            "veg_price_per_plate": 350
+        },
+        "capacity": [
+            {
+                "seating": 400,
+                "floating": 600,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse & outside catering allowed",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available ,  Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Jai-Maruthi-Convention-Hall-1322142"
+    },
+    {
+        "name": "Tirumala Kalyana Mandapam -  Bangalore",
+        "location": "Bangalore (View on Map)Tuda Layout, Tumakuru, Garden Road, Ashoka Road Tumkur, Tumkur - 572101",
+        "pricing": {
+            "veg_price_per_plate": 500,
+            "non_veg_price_per_plate": 500
+        },
+        "capacity": [
+            {
+                "seating": 900,
+                "floating": 1500,
+                "area": "Hall",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Outside decorators permitted",
+            "alcohol": "In house alcohol available, Outside alcohol not  permitted",
+            "dj": "In house DJ available, Outside DJ not permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Tirumala-Kalyana-Mandapam-1279413"
+    },
+    {
+        "name": "Shri Krishna Dharmika Sabhangana - South Bangalore, Bangalore",
+        "location": "Banshankari, Bangalore (View on Map)Shri Krishna Dharmika Sabhangana, Papaiah Garden, Banagirinagara, Banashank...",
+        "pricing": {
+            "starting_price_decor": 15000
+        },
+        "capacity": [
+            {
+                "seating": 600,
+                "floating": 1000,
+                "area": "Shree Krishna Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 250,
+                "area": "Gokula hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 250,
+                "area": "Radha Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 150,
+                "floating": 250,
+                "area": "Rukmini Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 150,
+                "area": "Dwaraka Hall",
+                "type": "indoor"
+            },
+            {
+                "seating": 60,
+                "floating": 150,
+                "area": "Mathura and Yagashala",
+                "type": "indoor"
+            }
+        ],
+        "policies": {
+            "catering": "Inhouse catering only",
+            "decor": "Inhouse decor",
+            "alcohol": "In house alcohol not available, Outside alcohol not permitted",
+            "dj": "In house DJ not available , Outside DJ permitted"
+        },
+        "room_count": null,
+        "source_url": "https://www.wedmegood.com/wedding-venues/Shri-Krishna-Dharmika-Sabhangana-681917"
+    }
+]
